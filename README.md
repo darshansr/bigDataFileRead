@@ -19,15 +19,16 @@ node -v
 latest version will be dispalyed 
 
 open project folder in any IDE or command prompt
-1)run the command in terminal---->
 
-  npm install  ---->
+1)run the below command in terminal
+
+  npm install  
   
   output://intall all dependancy
   
-2)Show words list in JSON format for top 10 words type the command in terminal---->
+2)Show words list in JSON format for top 10 words type the below command in terminal
 
-  node finalDataProcess.js----->
+  node finalDataProcess.js
   
   execpetd output://
   {"word":"to","output":{"pos":["preposition","conjunction","particle","adjective","pronoun","adverb"],"count":27895}}
