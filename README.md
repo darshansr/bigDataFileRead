@@ -11,7 +11,7 @@ project is having three file
 
 download node and npm from below link
 https://nodejs.org/en/download/
-check node and npm installed properly using below command
+check node and npm installed properly using command
 npm -v
 latest version will be dispalyed 
 
@@ -19,11 +19,11 @@ node -v
 latest version will be dispalyed 
 
 open project folder in any IDE or command prompt
-1)run the below command in terminal
-  npm install
+1)run the command in terminal---->
+  npm install  ---->
   output://intall all dependancy
-2)Show words list in JSON format for top 10 words type the below command in terminal
-  node finalDataProcess.js
+2)Show words list in JSON format for top 10 words type the command in terminal---->
+  node finalDataProcess.js----->
   execpetd output://
   {"word":"to","output":{"pos":["preposition","conjunction","particle","adjective","pronoun","adverb"],"count":27895}}
 {"word":"of","output":{"pos":["preposition","adverb"],"count":39169}}
