@@ -3,9 +3,8 @@ javascript program to count the occurrence of word in large text file
 
 Git clone 
 project is having three file
-1)big.txt
-2)finalDataProcess.js
-3)package.json
+1)finalDataProcess.js
+2)package.json
 
 
 
