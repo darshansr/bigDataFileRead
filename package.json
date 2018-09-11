@@ -1,0 +1,21 @@
+{
+  "name": "big-data-read",
+  "version": "1.0.0",
+  "description": "javscript program to count the occurance of word in large text file",
+  "author": "darshan sr",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/braitsch/node-login.git"
+  },
+  "private": true,
+  "dependencies": {
+    "es6-promise": "^4.2.4",
+    "fs": "0.0.1-security",
+    "isomorphic-fetch": "^2.2.1"
+  },
+  "engines": {
+    "node": ">= 0.10",
+    "npm": "1.1.65"
+  },
+  "main": "finalDataProcess.js"
+}
